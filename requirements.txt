@@ -1,3 +1,4 @@
+# this was when i wanted to design a frontend as well 
 streamlit
 nltk
 sklearn
